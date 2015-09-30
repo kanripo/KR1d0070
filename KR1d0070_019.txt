@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 陳氏禮記集說補正
-#+DATE: 2015-09-23 09:38:34
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:10:56.931247
+#+PROPERTY: ID KR1d0070
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1d0070_WYG_019-1a>¶
 欽定四庫全書¶
 　陳氏禮記集説補正卷十九¶
@@ -146,4 +148,3 @@
 　¶
 　¶
 　陳氏禮記集説補正卷十九¶
-
